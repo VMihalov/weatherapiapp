@@ -1,0 +1,14 @@
+{
+	"name" : "WeatherApi",
+	"version" : "0.0.1",
+	"repository" : {
+		"type" : "git",
+		"url" : "https://github.com/VMihalov/WeatherApi"
+	},
+	"dependencies" : {
+		"express" : "*",
+		"ejs" : "*",
+		"body-parser" : "*",
+		"xmlhttprequest" : "*" 
+	}
+}
